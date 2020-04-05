@@ -2,5 +2,3 @@ This is a new file.
 This is a change.
 
 Isa pang change;
-
-Irerevert ko to.
