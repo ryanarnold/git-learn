@@ -17,3 +17,6 @@ Change on master.
 I made a change within a branch.
 
 Magkaka-issue kaya
+
+Additional feature.
+
